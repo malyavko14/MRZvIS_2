@@ -1,0 +1,14 @@
+﻿  2lb.cpp
+  TriDimentionalMatrix.cpp
+  TwoDimentionalMatrix.cpp
+  valueMatrix.cpp
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(180,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(207,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(233,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(260,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(287,5): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(381,4): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(405,4): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+C:\Users\user\OneDrive\Документы\2lb\2lb\valueMatrix.cpp(429,4): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+  Создание кода...
+  2lb.vcxproj -> C:\Users\user\OneDrive\Документы\2lb\Debug\2lb.exe
